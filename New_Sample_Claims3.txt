@@ -1,0 +1,13 @@
+Name - TrustLine Insurance Consultants
+Created By (username) - Stellar Auto Components Ltd.
+Department - Engineering Claims Division
+Address 1 - Industrial Plot No. 89, Pimpri-Chinchwad, Pune, Maharashtra, India
+Processed - Engineer Inspection Scheduled
+
+Description - On 9th August 2025, the primary CNC machine at Stellar Auto Components Ltd. suffered a sudden mechanical breakdown. The breakdown occurred due to a failure in the spindle motor, which resulted in halted production for over a week. The company relies heavily on this machine for manufacturing precision automotive parts for multiple clients. Replacement parts are not readily available locally and have to be imported, leading to significant delays. Production backlog has already affected supply chain commitments, and several orders are now at risk of cancellation. The insured has filed a claim to cover repair, replacement, and loss of business income.
+
+Address 2 -
+1. CNC machine repair costs: ₹ 18,50,000
+2. Imported spare parts: ₹ 7,20,000
+3. Loss of production backlog: ₹ 14,00,000
+4. Client penalties for late delivery: ₹ 3,75,000

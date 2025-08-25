@@ -1,0 +1,13 @@
+Name - Digital Shield Insurance Services
+Created By (username) - FinCore Banking Solutions Ltd.
+Department - Cyber Risk Claims Division
+Address 1 - Tech Park Tower, Bengaluru, Karnataka, India
+Processed - IT Forensic Audit in Progress
+
+Incident Details - On 5th August 2025, FinCore Banking Solutions Ltd. reported a major ransomware attack on their central database systems. Hackers infiltrated the company’s firewall and encrypted sensitive financial records, demanding a ransom payment in cryptocurrency. The cyberattack led to a complete shutdown of online banking services for nearly 48 hours, severely impacting customers. IT forensic teams and law enforcement agencies are currently investigating the breach to identify the source of the attack. Critical customer data backups were found to be partially corrupted, requiring expensive recovery measures. This incident has raised concerns about data security and regulatory compliance for the insured company.
+
+Address 2 -
+1. Data recovery and IT security services: ₹ 40,00,000
+2. Loss due to business downtime: ₹ 25,50,000
+3. Client compensation claims: ₹ 12,00,000
+4. Legal and compliance penalties: ₹ 6,75,000

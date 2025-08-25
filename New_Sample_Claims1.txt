@@ -1,0 +1,14 @@
+Name - SecureLife Insurance Solutions
+Created By (username) - Nova Chemicals Pvt. Ltd.
+Department - Industrial Risk Claims
+Address 1 - Plot 67, Chemical Industrial Park, Dahej, Gujarat, India
+Processed - Initial Survey Completed – Awaiting Final Approval
+
+Incident Details - On 12th August 2025, a sudden explosion occurred in the solvent storage unit of Nova Chemicals Pvt. Ltd. The blast was triggered by an uncontrolled chemical reaction caused by a malfunctioning temperature control system. The explosion destroyed multiple storage tanks and caused fire damage to nearby laboratory facilities. Emergency response teams were deployed within 30 minutes to contain the situation and prevent further spread. Fortunately, there were no fatalities, but four workers sustained injuries requiring hospitalisation. Production has been halted indefinitely, with major safety inspections mandated by the local authorities.
+
+Address 2 -
+1. Storage tank destruction: ₹ 55,00,000
+2. Fire damage to laboratory: ₹ 22,75,000
+3. Loss of stored chemicals: ₹ 18,40,000
+4. Worker medical expenses: ₹ 2,60,000
+5. Business interruption costs: ₹ 12,00,000
